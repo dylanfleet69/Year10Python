@@ -1,0 +1,8 @@
+if True:print("Hello World")
+if False:print("Goodbye")
+test_variable=True
+if test_variable:print("Does this code run?")
+var1=50<100
+if var1:print("If you're happy and you know it clap your hands.\n"*2)
+if 1==1:print("If you're happy and you know it and you realy want to show it.")
+if var1:print("If you're happy and you know it clap your hands.")
